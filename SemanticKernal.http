@@ -1,0 +1,6 @@
+@SemanticKernal_HostAddress = http://localhost:5210
+
+GET {{SemanticKernal_HostAddress}}/test/
+Accept: application/json
+
+###
